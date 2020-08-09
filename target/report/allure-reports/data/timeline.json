@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-3G037UT",
+    "children" : [ {
+      "name" : "11836@DESKTOP-3G037UT.main(1)",
+      "children" : [ {
+        "name" : "initializationError",
+        "uid" : "e188395f146b8461",
+        "parentUid" : "877167668c5d312227d5be49d3e469bf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1596970901034,
+          "stop" : 1596970907264,
+          "duration" : 6230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "877167668c5d312227d5be49d3e469bf"
+    } ],
+    "uid" : "2a08bfdc0c6a8c5ec5d716014368b5fa"
+  } ]
+}

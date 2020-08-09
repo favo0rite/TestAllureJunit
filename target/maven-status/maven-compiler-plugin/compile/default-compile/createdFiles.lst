@@ -1,0 +1,9 @@
+appline\managers\InitManager.class
+appline\managers\TestPropManager.class
+appline\pages\BasePage.class
+appline\pages\StartPage.class
+appline\pages\ContributionsPage.class
+appline\managers\DriverManager.class
+appline\utils\MyAllureListener.class
+appline\utils\PropConst.class
+appline\managers\ManagerPages.class

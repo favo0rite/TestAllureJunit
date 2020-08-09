@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Aug 09 14:01:41 MSK 2020","Sun Aug 09 14:01:47 MSK 2020","6230","","tests.TestRenCredit","","tests.TestRenCredit","initializationError","initializationError",""

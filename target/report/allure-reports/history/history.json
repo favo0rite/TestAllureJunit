@@ -1,0 +1,22 @@
+{
+  "36745a5268d9e9cf6739a70ea605fa3e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e188395f146b8461",
+      "status" : "broken",
+      "statusDetails" : "Invalid test class 'tests.TestRenCredit':\n  1. Method beforeAll() should be static\n  2. Method afterall() should be static",
+      "time" : {
+        "start" : 1596970901034,
+        "stop" : 1596970907264,
+        "duration" : 6230
+      }
+    } ]
+  }
+}

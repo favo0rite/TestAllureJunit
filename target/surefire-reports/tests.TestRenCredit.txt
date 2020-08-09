@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: tests.TestRenCredit
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.969 s <<< FAILURE! - in tests.TestRenCredit
+tests.TestRenCredit.initializationError  Time elapsed: 0.001 s  <<< ERROR!
+org.junit.runners.model.InvalidTestClassError: 
+Invalid test class 'tests.TestRenCredit':
+  1. Method beforeAll() should be static
+  2. Method afterall() should be static
+

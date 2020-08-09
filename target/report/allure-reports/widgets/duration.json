@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e188395f146b8461",
+  "name" : "initializationError",
+  "time" : {
+    "start" : 1596970901034,
+    "stop" : 1596970907264,
+    "duration" : 6230
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

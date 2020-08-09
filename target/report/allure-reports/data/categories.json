@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Invalid test class 'tests.TestRenCredit':\n  1. Method beforeAll() should be static\n  2. Method afterall() should be static",
+      "children" : [ {
+        "name" : "initializationError",
+        "uid" : "e188395f146b8461",
+        "parentUid" : "6c40f082cc6848cffc116add6c709904",
+        "status" : "broken",
+        "time" : {
+          "start" : 1596970901034,
+          "stop" : 1596970907264,
+          "duration" : 6230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c40f082cc6848cffc116add6c709904"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
